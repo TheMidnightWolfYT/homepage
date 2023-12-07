@@ -10,10 +10,6 @@ header {
     background-color: dark;
 }
 
-h1 {
-    font-family: 'Indie Flower', cursive;
-}
-
-h3 {
+h1, h3{
     font-family: 'Indie Flower', cursive;
 }
