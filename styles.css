@@ -16,5 +16,9 @@ h1 {
 }
 
 footer {
-    background-color: #222222
+    background-color: #222222;
+}
+
+#pulse {
+    padding: 10;
 }
