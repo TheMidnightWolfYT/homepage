@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Pacifico');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
 body {
     text-align: center;
@@ -11,5 +11,5 @@ header {
 }
 
 h1 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Indie Flower', cursive;
 }
