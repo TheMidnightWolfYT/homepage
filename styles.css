@@ -10,3 +10,7 @@ body {
 header {
     background-color: dark;
 }
+
+h1 {
+    font-weight: bold;
+}
